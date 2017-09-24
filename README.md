@@ -7,7 +7,7 @@ The project was created for a talk at [Recurship](https://www.recurship.com) usi
 Links to slides and demo can be found below.
 
 <p align="center">
-<iframe src="https://drive.google.com/file/d/0B95BU5fhncRIbG5fMndEYTVWOWc/preview" width="640" height="480"></iframe>
+<img src="https://drive.google.com/file/d/0B95BU5fhncRIbG5fMndEYTVWOWc/preview">
 </p>
 
 
