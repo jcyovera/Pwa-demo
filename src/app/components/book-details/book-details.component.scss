@@ -1,0 +1,41 @@
+:host {
+    display: flex;
+    justify-content: center;
+    margin: 75px 0;
+}
+md-card-title {
+    margin-left: 0;
+    font-size: 24px !important;
+
+}
+md-card-content {
+    margin: 15px 0 50px;
+}
+md-card-actions {
+    margin: 25px 0 0 !important;
+}
+md-card-footer {
+    padding: 0 25px 25px;
+    position: relative;
+}
+.example-card {
+    max-width: 400px;
+}
+.example-header-image {
+    background-size: cover;
+    margin-left: 5px;
+}
+.mat-card-image {
+    width: calc(100% + -108px);
+    margin: 0 -24px 16px 54px;
+    height: 310px;
+}
+.mat-card-header {
+    display: flex;
+    flex-direction: row;
+    background: #FF6F00;
+    margin: 0px -25px;
+    color: rgba(0,0,0,.87);
+    padding-top: 10px;
+}
+  

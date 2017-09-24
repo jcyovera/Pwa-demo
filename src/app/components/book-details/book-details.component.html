@@ -1,0 +1,19 @@
+<md-card class="example-card" *ngIf="book">
+  <md-card-header>
+    <div md-card-avatar class="example-header-image"></div>
+    <md-card-title>{{ title }}</md-card-title>
+    <md-card-subtitle *ngIf="subtitle">{{ subtitle }}</md-card-subtitle>
+  </md-card-header>
+  <img md-card-sm-image *ngIf="thumbnail" class="mat-card-image" [src]="thumbnail"/>
+  <md-card-content>
+    <p [innerHtml]="description"></p>
+  </md-card-content>
+  <md-card-actions>
+    <button md-raised-button color="warn" *ngIf="inCollection" (click)="remove.emit(book)">
+      Remove Book from Collection
+      </button>
+      <button md-raised-button color="primary" *ngIf="!inCollection" (click)="add.emit(book)">
+      Add Book to Collection
+      </button>
+  </md-card-actions>
+</md-card>

@@ -1,0 +1,8 @@
+<form class="example-form">
+    <md-form-field class="example-full-width">
+        <input mdInput (ngModelChange)="onSearchTextChange(searchText)" [(ngModel)]="searchText" placeholder="Search books"
+         [value]="searchText" [ngModelOptions]="{standalone: true}">
+    </md-form-field>
+    <md-spinner [class.show]="searching"></md-spinner>
+</form>
+<ngb-books-list [books]="books"></ngb-books-list>
