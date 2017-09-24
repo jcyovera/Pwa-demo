@@ -7,7 +7,7 @@ The project was created for a talk at [Recurship](https://www.recurship.com) usi
 Links to slides and demo can be found below.
 
 <p align="center">
-<img src="https://drive.google.com/file/d/0B95BU5fhncRIbG5fMndEYTVWOWc/preview">
+<img src="http://res.cloudinary.com/dqycg4wf1/image/upload/v1506224136/books-mobile_cxoarg.png>
 </p>
 
 
