@@ -6,7 +6,9 @@
 The project was created for a talk at [Recurship](https://www.recurship.com) using [Angular CLI](https://github.com/angular/angular-cli).
 Links to slides and demo can be found below.
 
-<p align="center"><img src="https://drive.google.com/file/d/0B95BU5fhncRIbG5fMndEYTVWOWc/preview"></p>
+<p align="center">
+<iframe src="https://drive.google.com/file/d/0B95BU5fhncRIbG5fMndEYTVWOWc/preview" width="640" height="480"></iframe>
+</p>
 
 
 # LIVE DEMO
