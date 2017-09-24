@@ -12,7 +12,7 @@ Links to slides and demo can be found below.
 
 
 # LIVE DEMO
-Cooming soon
+Live demo [here](https://books-mobile.firebaseapp.com)
 
 ## Development server
 
