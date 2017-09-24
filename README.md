@@ -20,7 +20,10 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## See PWA in action
 
-Run `sh run.sh` from your shell.
+Run `ng build --prod` from your shell.
+Navigate to dist folder `cd dist` from your shell.
+Run `http-server` from your shell.
+
 This will do all the cool stuff and will create the PWA in the dist folder as well as will start the server on [localhost:8080](http://localhost:8080).
 
 ## Build
